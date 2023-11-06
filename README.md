@@ -1,4 +1,4 @@
-# SDRL-Net
+# Scale-wise Discriminative Region Learning for Medical Image Segmentation
 
 
 Access to the multi-organ dataset:
